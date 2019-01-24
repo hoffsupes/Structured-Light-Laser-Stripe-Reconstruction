@@ -6,5 +6,3 @@ Automatically detects a laser stripe on an object seen in the image, given, ther
 Test images and results included within. 
 
 Please give credit to this work if you use it and link back to this page.
-
-Credit for help with hardware on this project goes to: Steve@RPI
